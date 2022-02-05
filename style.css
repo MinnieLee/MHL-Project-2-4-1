@@ -151,12 +151,14 @@
 	  }
 	
 	.head{
-		width:90%;
+		width:80%;
 	   height:auto;
 		background: white;
 		display:flex;
 	   margin-left: 55px;
 		margin-right: 5%;
+		align-items: center;
+  		justify-content: center;
 	}
 
 
